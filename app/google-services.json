@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "877632067108",
+    "firebase_url": "https://authui-d8416.firebaseio.com",
+    "project_id": "authui-d8416",
+    "storage_bucket": "authui-d8416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877632067108:android:ec82c1b8f3e170a6",
+        "android_client_info": {
+          "package_name": "com.example.nikma.authui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877632067108-n6hecbfug08ed5eadtkmsvukapdfp887.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nikma.authui",
+            "certificate_hash": "d3df393b99ab0c9383892a50907d719a03ce5258"
+          }
+        },
+        {
+          "client_id": "877632067108-h3mr3bnqulcgia715kijcjncrcdb2khu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA12VCrrr-GRLZTP6pMgrumIEnXX-uB8cw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877632067108-h3mr3bnqulcgia715kijcjncrcdb2khu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
